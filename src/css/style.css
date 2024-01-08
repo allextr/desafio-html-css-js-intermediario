@@ -2,7 +2,7 @@
 
 html, body {
     width: 100%;
-    overflow-x: hidden; /* Para evitar a rolagem horizontal */
+    overflow-x: hidden;
 }
 
 body {
